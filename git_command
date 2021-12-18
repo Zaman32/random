@@ -1,0 +1,7 @@
+!git init
+!git config --global user.email "zaman.arafath@gmail.com"
+!git config --global user.name "Mohammad Arafath Uz Zaman"
+!git remote add origin https://github.com/Zaman32/spot-nuclei.git
+!git add data_processing.py
+!git commit -m "all code"
+!git push origin master
